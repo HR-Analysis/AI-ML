@@ -13,3 +13,11 @@ Formatted Output
    - Presented missing value counts, percentages, and data types in a clean summary table for better readability.
 
 This is a foundational step in preparing data for further analysis, visualization, or machine learning.
+
+Task 2
+This Colab script performs basic Exploratory Data Analysis (EDA):
+ Uploads a CSV file
+ Shows mean, median, mode in a summary table
+ Plots histograms, boxplots, pairplots, and a correlation heatmap
+ Helps identify patterns, trends, and outliers in numeric data
+Libraries used: pandas, numpy, matplotlib, seaborn
